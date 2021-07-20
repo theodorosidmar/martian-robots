@@ -1,0 +1,4 @@
+## Running
+```sh
+$ ./gradlew run
+```

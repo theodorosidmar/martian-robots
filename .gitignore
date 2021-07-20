@@ -1,0 +1,4 @@
+build/
+.tool-versions
+.idea/
+.gradle/
